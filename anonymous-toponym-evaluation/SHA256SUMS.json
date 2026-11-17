@@ -1,0 +1,23 @@
+{
+  ".gitignore": "92cb64e2f5615e827c79dcad8d5243a93cb72d101fc6be8a1404154eedd0206e",
+  "PROTOCOL.md": "62b66e89e4da26cd9ab276c9fda6716e2a25a759449e3308a18af954d1a89cb8",
+  "PROVENANCE.md": "fb2246b0fcaaac52170ed50c078d54fd370bd8320719e836665a0c378cbb8147",
+  "README.md": "8ed8741557b0d5b49a854bdc97e0752bedf541663dab2e09b45dafde2dd1f776",
+  "data/predictions_original.jsonl": "8113db7ab508a4594cf0ee2680ab1fa7f693ce2c730cedf528c7859905c574d8",
+  "data/references_verified.csv": "44d8a0b87b85249413b75ed40bdabda4e31947c02c3f1ad880bbae86362b4a74",
+  "expected.json": "2f7b8aeff836607107576fcd3a814017740e1e9c776a4ff8d42c4663eaacee0d",
+  "pipeline/config/generic_terms_dictionary.csv": "49b0c7805d6fa0ed94aa3d731b5c58fd53929b6275b3aa638aa17674cbdb4648",
+  "pipeline/config/names.json": "9301a5a42b4b2861dd18f9e2c99ef18673b915b353f20eab4a100073f3b1e224",
+  "pipeline/config/rendering_profile.md": "33c84bb398b3317012d475a8255c54e9bc3f1adf614a80565d2e8fb9aa3e63f2",
+  "pipeline/slurm/inference.sbatch": "1da6f183ccbcd58d10d15f2aff77d910e60dc93304686580914a39b7a08e0b40",
+  "pipeline/src/render.py": "a94a64b88dd2c24e77d60e95bee965eefe2bb28d6211fb6aa5a826c7ad584099",
+  "pipeline/src/run_pipeline.py": "09d41bf37f0682d9286c4f213c542d866e68455b9fe28fd055017ee991c1d055",
+  "pipeline/src/score_labels.py": "4b328fe832a1e45f7d43b1bcf6ee9986da0d33dabf88678de026337fdc0b6542",
+  "pipeline/tests/sample.csv": "ea13bab1eb5ea3220110f5f16fe03faddb4eeab8fa0d210e7d8af7591d98e0b2",
+  "pipeline/tests/test_render.py": "d99b593f211ed38d5673e3b1693f5de75118ca21dc20c85184013454e6ad2e81",
+  "reproduce.py": "ad6bb20f93d7ad296f7659f59918d67bdebb2df0453a6a66869c73e607ac2b29",
+  "requirements-inference.txt": "a0bcfdaf4886e1948f86de13e1d4ccb7f36fd8ebbbe96492b6154277f5a9593f",
+  "requirements.txt": "b476c5506848bb9e6cbe601c6c20ba129e616a77371c3ee3898ac53704983ad3",
+  "results_summary.json": "3ffa806ffb16e2a5a4ba4058964bea560aa2f237a7025eac68bb25a3b9c6f6fb",
+  "score_labels.py": "4b328fe832a1e45f7d43b1bcf6ee9986da0d33dabf88678de026337fdc0b6542"
+}

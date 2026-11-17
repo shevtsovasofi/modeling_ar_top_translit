@@ -1,0 +1,8 @@
+{
+  "فيصل": {"en": "Faisal", "ru": "Фейсал", "origin": "reconstructed_spec_example"},
+  "بن": {"en": "Bin", "ru": "Бин", "origin": "project_component_rule"},
+  "ابن": {"en": "Ibn", "ru": "Ибн", "origin": "project_component_rule"},
+  "بنت": {"en": "Bint", "ru": "Бинт", "origin": "project_component_rule"},
+  "أبو": {"en": "Abu", "ru": "Абу", "origin": "project_component_rule"},
+  "أم": {"en": "Umm", "ru": "Умм", "origin": "project_component_rule"}
+}

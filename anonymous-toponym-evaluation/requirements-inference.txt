@@ -1,0 +1,7 @@
+torch==2.5.1
+transformers==4.46.3
+accelerate==1.1.1
+sentencepiece==0.2.0
+numpy==1.26.4
+protobuf==5.28.3
+huggingface-hub==0.26.2

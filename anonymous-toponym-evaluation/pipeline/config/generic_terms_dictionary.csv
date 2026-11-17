@@ -1,0 +1,213 @@
+ar_term;en_term;ru_term;category
+محطة معالجة مياه;Water Treatment Plant;водоочистная станция;poi_services
+محطة سكة حديد;Railway Station;железнодорожная станция;poi_transport
+ملعب كرة قدم;Football Field;футбольное поле;green_recreation
+حديقة الحيوانات;Zoo;зоопарк;green_recreation
+بحيرة صناعية;Artificial Lake;искусственное озеро;water_coast
+حديقة نباتية;Botanical Garden;ботанический сад;green_recreation
+شعاب مرجانية;Coral Reefs;коралловые рифы;water_coast
+محمية طبيعية;Nature Reserve;природный заповедник;green_recreation
+مدينة جامعية;University Campus;университетский городок;settlements_admin
+مدينة صناعية;Industrial City;промышленный город;settlements_admin
+مركز مؤتمرات;Convention Center;конгресс-центр;poi_services
+منطقة تجارية;Commercial Area;торговый район;settlements_admin
+منطقة صناعية;Industrial Area;промышленная зона;settlements_admin
+بحيرة مالحة;Salt Lake;солёное озеро;water_coast
+حديقة حيوان;Zoo;зоопарк;green_recreation
+حديقة وطنية;National Park;национальный парк;green_recreation
+سلسلة جبلية;Mountain Range;горный хребет;relief
+كثبان رملية;Sand Dunes;песчаные дюны;relief
+محطة حافلات;Bus Station;автостанция;poi_transport
+محطة قطارات;Railway Station;железнодорожная станция;poi_transport
+محطة كهرباء;Power Station;электростанция;poi_services
+مخيم لاجئين;Refugee Camp;лагерь беженцев;settlements_admin
+مسار دراجات;Cycle Path;велосипедная дорожка;roads
+منطقة سكنية;Residential Area;жилой район;settlements_admin
+مهبط طائرات;Airstrip;посадочная полоса;poi_transport
+موقف حافلات;Bus Stop;автобусная остановка;poi_transport
+موقف سيارات;Car Park;автостоянка;poi_transport
+حديقة عامة;Public Park;общественный парк;green_recreation
+روضة أطفال;Kindergarten;детский сад;poi_services
+سلسلة جبال;Mountain Range;горный хребет;relief
+شارع تجاري;Commercial Street;торговая улица;roads
+شارع رئيسي;Main Street;главная улица;roads
+طريق دائري;Ring Road;кольцевая дорога;roads
+طريق رئيسي;Main Road;главная дорога;roads
+طريق زراعي;Agricultural Road;сельскохозяйственная дорога;roads
+طريق ساحلي;Coastal Road;прибрежная дорога;roads
+قناة مائية;Canal;водный канал;water_coast
+مجمع تجاري;Shopping Complex;торговый комплекс;poi_services
+محطة تحلية;Desalination Plant;опреснительная установка;poi_services
+مركز إطفاء;Fire Station;пожарная часть;poi_services
+مركز تجاري;Shopping Center;торговый центр;poi_services
+مركز ثقافي;Cultural Center;культурный центр;heritage_religion
+مركز رياضي;Sports Center;спортивный центр;green_recreation
+مركز معارض;Exhibition Center;выставочный центр;poi_services
+معبر حدودي;Border Crossing;пограничный переход;poi_transport
+نادي رياضي;Sports Club;спортивный клуб;green_recreation
+نصب تذكاري;Memorial;мемориал;heritage_religion
+تجمع سكني;Residential Settlement;жилой посёлок;settlements_admin
+خزان مياه;Water Reservoir;водохранилище;water_coast
+دار أوبرا;Opera House;оперный театр;heritage_religion
+رصيف بحري;Pier;пирс;poi_transport
+شبه جزيرة;Peninsula;полуостров;water_coast
+طريق خدمي;Service Road;служебный проезд;roads
+طريق سريع;Highway;автомагистраль;roads
+طريق فرعي;Side Road;второстепенная дорога;roads
+مجمع سكني;Residential Complex;жилой комплекс;settlements_admin
+محطة قطار;Railway Station;железнодорожная станция;poi_transport
+محطة مترو;Metro Station;станция метро;poi_transport
+محطة وقود;Petrol Station;автозаправочная станция;poi_transport
+مركز شرطة;Police Station;полицейский участок;poi_services
+مكتب بريد;Post Office;почтовое отделение;poi_services
+منطقة حرة;Free Zone;свободная экономическая зона;settlements_admin
+موقع أثري;Archaeological Site;археологический памятник;heritage_religion
+جسر مشاة;Pedestrian Bridge;пешеходный мост;roads
+سكة حديد;Railway;железная дорога;poi_transport
+سوق شعبي;Traditional Market;традиционный рынок;poi_services
+مركز صحي;Health Center;медицинский центр;poi_services
+ملعب تنس;Tennis Court;теннисный корт;green_recreation
+ممر جبلي;Mountain Pass;горный перевал;relief
+نفق مشاة;Pedestrian Underpass;подземный пешеходный переход;roads
+حقل نفط;Oil Field;нефтяное месторождение;poi_services
+حوض نهر;River Basin;речной бассейн;relief
+كاتدرائية;Cathedral;собор;heritage_religion
+شلالات;Waterfalls;водопады;water_coast
+قنصلية;Consulate;консульство;poi_services
+محافظة;Governorate;мухафаза;settlements_admin
+مستشفى;Hospital;больница;poi_services
+مستنقع;Marsh;болото;water_coast
+مستوصف;Clinic;амбулатория;poi_services
+مقاطعة;District;округ;settlements_admin
+أبراج;Towers;башни;heritage_religion
+أودية;Valleys;долины;relief
+إمارة;Emirate;эмират;settlements_admin
+بحيرة;Lake;озеро;water_coast
+بركان;Volcano;вулкан;relief
+بلدية;Municipality;муниципалитет;settlements_admin
+بوابة;Gate;ворота;heritage_religion
+تقاطع;Intersection;перекрёсток;roads
+جامعة;University;университет;poi_services
+جزيرة;Island;остров;water_coast
+حديقة;Park;парк;green_recreation
+سفارة;Embassy;посольство;poi_services
+صحراء;Desert;пустыня;relief
+ضاحية;Suburb;пригород;settlements_admin
+عيادة;Clinic;клиника;poi_services
+غابات;Forests;леса;green_recreation
+كثبان;Dunes;дюны;relief
+كنيسة;Church;церковь;heritage_religion
+متنزه;Park;парк;green_recreation
+محكمة;Court;суд;poi_services
+محمية;Nature Reserve;заповедник;green_recreation
+مدرسة;School;школа;poi_services
+مدينة;City;город;settlements_admin
+مزرعة;Farm;ферма;poi_services
+مغارة;Cave;пещера;relief
+مقبرة;Cemetery;кладбище;heritage_religion
+مكتبة;Library;библиотека;heritage_religion
+ملاهي;Amusement Park;парк аттракционов;green_recreation
+منارة;Lighthouse;маяк;poi_transport
+منتجع;Resort;курорт;green_recreation
+منتزه;Park;парк;green_recreation
+منخفض;Depression;впадина;relief
+منطقة;Area;район;settlements_admin
+ميدان;Square;площадь;roads
+ميناء;Port;порт;poi_transport
+ناحية;Subdistrict;подрайон;settlements_admin
+ولاية;Wilayah;вилайет;settlements_admin
+آبار;Wells;колодцы;water_coast
+آثار;Ruins;руины;heritage_religion
+بركة;Pond;пруд;water_coast
+بلدة;Town;городок;settlements_admin
+تلال;Hills;холмы;relief
+جادة;Avenue;проспект;roads
+جامع;Mosque;соборная мечеть;heritage_religion
+جبال;Mountains;горы;relief
+حارة;Quarter;квартал;settlements_admin
+خربة;Ruins;руины;heritage_religion
+خليج;Gulf;залив;water_coast
+دلتا;Delta;дельта;water_coast
+دوار;Roundabout;круговая развязка;roads
+زقاق;Alley;переулок;roads
+ساحة;Square;площадь;roads
+ساحل;Coast;побережье;water_coast
+سبخة;Salt Flat;солончак;relief
+سهول;Plains;равнины;relief
+شارع;Street;улица;roads
+شاطئ;Beach;пляж;water_coast
+شلال;Waterfall;водопад;water_coast
+صخرة;Rock;скала;relief
+ضريح;Mausoleum;мавзолей;heritage_religion
+طريق;Road;дорога;roads
+عيون;Springs;источники;water_coast
+غابة;Forest;лес;green_recreation
+فندق;Hotel;гостиница;poi_services
+فوهة;Crater;кратер;relief
+قرية;Village;деревня;settlements_admin
+قضاء;District;округ;settlements_admin
+قلعة;Castle;замок;heritage_religion
+قناة;Canal;канал;water_coast
+كثيب;Dune;дюна;relief
+كلية;College;колледж;poi_services
+كنيس;Synagogue;синагога;heritage_religion
+متحف;Museum;музей;heritage_religion
+محطة;Station;станция;poi_transport
+محيط;Ocean;океан;water_coast
+مخيم;Camp;лагерь;settlements_admin
+مرسى;Marina;пристань;poi_transport
+مرفأ;Harbour;гавань;poi_transport
+مركز;Center;центр;settlements_admin
+مزار;Shrine;святилище;heritage_religion
+مسبح;Swimming Pool;бассейн;green_recreation
+مسجد;Mosque;мечеть;heritage_religion
+مسرح;Theatre;театр;heritage_religion
+مصلى;Prayer Area;место для молитвы;heritage_religion
+مصنع;Factory;завод;poi_services
+مضيق;Strait;пролив;water_coast
+مطار;Airport;аэропорт;poi_transport
+مطعم;Restaurant;ресторан;poi_services
+معبد;Temple;храм;heritage_religion
+معهد;Institute;институт;poi_services
+مفرق;Junction;развилка;roads
+مقهى;Cafe;кафе;poi_services
+ملعب;Stadium;стадион;green_recreation
+ممشى;Walkway;пешеходная дорожка;roads
+هضبة;Plateau;плато;relief
+واحة;Oasis;оазис;relief
+وادي;Valley;долина;relief
+ورشة;Workshop;мастерская;poi_services
+بئر;Well;колодец;water_coast
+باب;Gate;ворота;heritage_religion
+بحر;Sea;море;water_coast
+برج;Tower;башня;heritage_religion
+جبل;Mountain;гора;relief
+جرف;Cliff;обрыв;relief
+جزر;Islands;острова;water_coast
+جسر;Bridge;мост;roads
+حصن;Fort;форт;heritage_religion
+حقل;Field;поле;poi_services
+حوض;Basin;котловина;relief
+خور;Inlet;морской рукав;water_coast
+درب;Path;тропа;roads
+دير;Monastery;монастырь;heritage_religion
+رأس;Cape;мыс;water_coast
+راس;Cape;мыс;water_coast
+سهل;Plain;равнина;relief
+سور;Wall;стена;heritage_religion
+سوق;Market;рынок;poi_services
+شعب;Ravine;ущелье;relief
+عين;Spring;источник;water_coast
+قاع;Depression;впадина;relief
+قصر;Palace;дворец;heritage_religion
+قمة;Peak;вершина;relief
+كهف;Cave;пещера;relief
+مصب;Estuary;устье;water_coast
+ممر;Passage;проход;roads
+نبع;Spring;родник;water_coast
+نفق;Tunnel;тоннель;roads
+نهر;River;река;water_coast
+واد;Valley;долина;relief
+تل;Hill;холм;relief
+حي;District;район;settlements_admin
+سد;Dam;плотина;water_coast

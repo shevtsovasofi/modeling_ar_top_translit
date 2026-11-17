@@ -1,0 +1,2 @@
+# Frozen scoring and tests require only the Python standard library.
+# Optional model inference: pip install -r requirements-inference.txt

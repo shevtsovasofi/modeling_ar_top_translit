@@ -1,0 +1,28 @@
+{
+  "metric": "micro character F1 from Levenshtein alignment; NFC + whitespace normalization; case/punctuation preserved",
+  "extra_prediction_ids": 0,
+  "en": {
+    "n": 186,
+    "exact_match": 0.6720430107526881,
+    "character_precision": 0.8483430799220273,
+    "character_recall": 0.8607594936708861,
+    "character_f1": 0.8545061849597487,
+    "matching_characters": 2176,
+    "predicted_characters": 2565,
+    "reference_characters": 2528,
+    "missing_reference_labels": 0,
+    "exact_count": 125
+  },
+  "ru": {
+    "n": 186,
+    "exact_match": 0.6397849462365591,
+    "character_precision": 0.8406909788867563,
+    "character_recall": 0.8349218452154022,
+    "character_f1": 0.837796480489671,
+    "matching_characters": 2190,
+    "predicted_characters": 2605,
+    "reference_characters": 2623,
+    "missing_reference_labels": 0,
+    "exact_count": 119
+  }
+}
